@@ -2,7 +2,7 @@ version: 0.2
 
 env:
   variables:
-    REGION: "us-east-1"
+    REGION: "us-east-2"
     ECR_REPO: "brain-tasks-app"
     IMAGE_TAG: "latest"
 
